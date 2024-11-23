@@ -1,0 +1,10 @@
+/* the DUCK'S OASIS TEXT */
+#title {
+	text-align:center;
+	font-size:80px;
+	font-family:Trebuchet MS;
+	color: white;
+	padding: 1px 1px;
+	background-color: #000000;
+	border-radius: 10px
+}
